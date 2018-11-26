@@ -6,6 +6,11 @@ This plugin uses the HTML5 attribute "maxlength" to work.
 
 The indicator badge shows up on focusing on the element, and disappears when the focus is lost.
 
+# Install
+```
+npm install --save bootstrap-maxlength
+```
+
 ## Configurable options
 
  * **alwaysShow**: if true the threshold will be ignored and the remaining length indication will be always showing up while typing or on focus on the input. Default: false.
